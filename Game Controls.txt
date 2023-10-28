@@ -1,0 +1,7 @@
+Left paddle up : w 
+Left paddle down : s 
+
+Right paddle up : up arrow
+Right paddle down : down arrow
+
+After the game finishes click the screen to quit.
